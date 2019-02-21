@@ -1,0 +1,43 @@
+C:\Users\james\source\Caravaggio .net capture\WebcamDemo\bin\Debug\WebcamDemo.exe
+C:\Users\james\source\Caravaggio .net capture\WebcamDemo\bin\Debug\WebcamDemo.pdb
+C:\Users\james\source\Caravaggio .net capture\WebcamDemo\bin\Debug\Dynamsoft.Camera.dll
+C:\Users\james\source\Caravaggio .net capture\WebcamDemo\bin\Debug\Dynamsoft.Forms.Viewer.dll
+C:\Users\james\source\Caravaggio .net capture\WebcamDemo\bin\Debug\Dynamsoft.ImageCore.dll
+C:\Users\james\source\Caravaggio .net capture\WebcamDemo\bin\Debug\Dynamsoft.Camera.xml
+C:\Users\james\source\Caravaggio .net capture\WebcamDemo\bin\Debug\Dynamsoft.ImageCore.xml
+C:\Users\james\source\Caravaggio .net capture\WebcamDemo\obj\Debug\WebcamDemo_VS2015.csprojResolveAssemblyReference.cache
+C:\Users\james\source\Caravaggio .net capture\WebcamDemo\obj\Debug\WebcamDemo.Form1.resources
+C:\Users\james\source\Caravaggio .net capture\WebcamDemo\obj\Debug\WebcamDemo.Properties.Resources.resources
+C:\Users\james\source\Caravaggio .net capture\WebcamDemo\obj\Debug\WebcamDemo_VS2015.csproj.GenerateResource.cache
+C:\Users\james\source\Caravaggio .net capture\WebcamDemo\obj\Debug\WebcamDemo_VS2015.csproj.CoreCompileInputs.cache
+C:\Users\james\source\Caravaggio .net capture\WebcamDemo\obj\Debug\WebcamDemo_VS2015.csproj.CopyComplete
+C:\Users\james\source\Caravaggio .net capture\WebcamDemo\obj\Debug\WebcamDemo.exe
+C:\Users\james\source\Caravaggio .net capture\WebcamDemo\obj\Debug\WebcamDemo.pdb
+D:\Work\WebcamDemo\WebcamDemo\bin\Debug\WebcamDemo.exe
+D:\Work\WebcamDemo\WebcamDemo\bin\Debug\WebcamDemo.pdb
+D:\Work\WebcamDemo\WebcamDemo\bin\Debug\Dynamsoft.Camera.dll
+D:\Work\WebcamDemo\WebcamDemo\bin\Debug\Dynamsoft.Forms.Viewer.dll
+D:\Work\WebcamDemo\WebcamDemo\bin\Debug\Dynamsoft.ImageCore.dll
+D:\Work\WebcamDemo\WebcamDemo\bin\Debug\Dynamsoft.Camera.xml
+D:\Work\WebcamDemo\WebcamDemo\bin\Debug\Dynamsoft.ImageCore.xml
+D:\Work\WebcamDemo\WebcamDemo\obj\Debug\WebcamDemo_VS2015.csprojResolveAssemblyReference.cache
+D:\Work\WebcamDemo\WebcamDemo\obj\Debug\WebcamDemo.Form1.resources
+D:\Work\WebcamDemo\WebcamDemo\obj\Debug\WebcamDemo.Properties.Resources.resources
+D:\Work\WebcamDemo\WebcamDemo\obj\Debug\WebcamDemo_VS2015.csproj.GenerateResource.Cache
+D:\Work\WebcamDemo\WebcamDemo\obj\Debug\WebcamDemo.exe
+D:\Work\WebcamDemo\WebcamDemo\obj\Debug\WebcamDemo.pdb
+C:\Users\james\source\Caravaggio .net capture\WebcamDemo\WebcamDemo\bin\Debug\WebcamDemo.exe
+C:\Users\james\source\Caravaggio .net capture\WebcamDemo\WebcamDemo\bin\Debug\WebcamDemo.pdb
+C:\Users\james\source\Caravaggio .net capture\WebcamDemo\WebcamDemo\bin\Debug\Dynamsoft.Camera.dll
+C:\Users\james\source\Caravaggio .net capture\WebcamDemo\WebcamDemo\bin\Debug\Dynamsoft.Forms.Viewer.dll
+C:\Users\james\source\Caravaggio .net capture\WebcamDemo\WebcamDemo\bin\Debug\Dynamsoft.ImageCore.dll
+C:\Users\james\source\Caravaggio .net capture\WebcamDemo\WebcamDemo\bin\Debug\Dynamsoft.Camera.xml
+C:\Users\james\source\Caravaggio .net capture\WebcamDemo\WebcamDemo\bin\Debug\Dynamsoft.ImageCore.xml
+C:\Users\james\source\Caravaggio .net capture\WebcamDemo\WebcamDemo\obj\Debug\WebcamDemo_VS2015.csprojResolveAssemblyReference.cache
+C:\Users\james\source\Caravaggio .net capture\WebcamDemo\WebcamDemo\obj\Debug\WebcamDemo.Form1.resources
+C:\Users\james\source\Caravaggio .net capture\WebcamDemo\WebcamDemo\obj\Debug\WebcamDemo.Properties.Resources.resources
+C:\Users\james\source\Caravaggio .net capture\WebcamDemo\WebcamDemo\obj\Debug\WebcamDemo_VS2015.csproj.GenerateResource.cache
+C:\Users\james\source\Caravaggio .net capture\WebcamDemo\WebcamDemo\obj\Debug\WebcamDemo_VS2015.csproj.CoreCompileInputs.cache
+C:\Users\james\source\Caravaggio .net capture\WebcamDemo\WebcamDemo\obj\Debug\WebcamDemo_VS2015.csproj.CopyComplete
+C:\Users\james\source\Caravaggio .net capture\WebcamDemo\WebcamDemo\obj\Debug\WebcamDemo.exe
+C:\Users\james\source\Caravaggio .net capture\WebcamDemo\WebcamDemo\obj\Debug\WebcamDemo.pdb
